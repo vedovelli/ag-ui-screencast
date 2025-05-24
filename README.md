@@ -1,5 +1,7 @@
 # Screencast RAG por Fabio Vedovelli
 
+Assistir a aula aqui: [https://youtu.be/PtkzAQD2UzA](https://youtu.be/PtkzAQD2UzA)
+
 IMPORTANTE: este repositório NÃO é um Monorepo.
 
 - **client/**: contém o projeto da aplicação que é acessada pelo browser, usuário final. É uma aplicação React Router 7 (modo framework). Para acessa-la utilize o terminal, acesse a pasta `client/` e execute `npm install` e `npm run dev`, o que tornará a aplicação disponível na porta 5173.
